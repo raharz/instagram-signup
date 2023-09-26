@@ -5,4 +5,4 @@ this is the login page of instagram.
 
 it took 1 day to make this site.
 # detail
-we use HTML,CSS for this page.
+I use HTML,CSS for this page.
